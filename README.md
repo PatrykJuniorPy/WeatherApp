@@ -1,1 +1,1 @@
-An simple API weatherapp
+A simple API weatherapp
